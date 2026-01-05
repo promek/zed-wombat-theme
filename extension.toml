@@ -1,0 +1,7 @@
+id = "wombat"
+name = "Wombat Theme"
+version = "0.1.0"
+schema_version = 2
+authors = ["ibrahim SEN <ibrahim@promek.net> - Promek Yazilim Internet"]
+description = "Wombat Themes for the Zed IDE"
+repository = "https://github.com/promek/zed-wombat-theme"
